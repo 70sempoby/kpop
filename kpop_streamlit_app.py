@@ -19,7 +19,7 @@ def load_data(file_path):
 data = load_data("kpop_albums.csv")
 
 # --- 3. 대시보드 제목과 설명 추가 ---
-st.title("✨ 스트림릿으로 펼치는 인터랙티브 데이터 세상")
+st.title("✨ 별별별별 스트림릿으로 펼치는 인터랙티브 데이터 세상")
 st.write("(클릭, 선택, 입력! 나만의 대시보드를 만들고 체험하기)")
 st.write("---")
 
